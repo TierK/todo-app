@@ -1,0 +1,33 @@
+*{
+  font-family: "Ariel", sans-serif;
+}
+
+
+button{
+  margin-left: 10px;
+  border: none;
+  background-color: #0088cc ;
+  color: #99ddff;
+  box-shadow: 0 2px 4px 0  #005580, 0 2px 5px 0 #005580;
+}
+
+ul  {
+  
+}
+
+
+li {
+ width: 70%;
+ margin: 5px;
+ box-shadow: 0 0 7px 2px rgba(0,102,153,0.65);
+ color: #003d99;
+ opacity: 0.8;
+}
+
+ul button {
+  width: auto;
+}
+
+li, button{
+  border-radius: 5px;
+}
